@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/session-interface": "dev-main"
+        "potter/session-interface": "dev-main",
+        "potter/session-aware-interface": "dev-main"
     },
     "license": "MIT",
     "authors": [
