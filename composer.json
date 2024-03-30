@@ -7,6 +7,11 @@
         "potter/session-interface": "dev-main",
         "potter/session-aware-interface": "dev-main"
     },
+    "suggest": {
+        "potter/session": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
